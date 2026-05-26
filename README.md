@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F5AF0,50:2CB67D,100:00C2FF&height=190&section=header&text=Sukhmanjeet%20Kaur&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%2F%20ML%20Developer%20%7C%20Backend%20Builder%20%7C%20Cloud%20%26%20Data%20Learner&descAlignY=58&descSize=16" width="100%" />
+<h1>hey, i'm Sukhman 👋</h1>
+
+<p><strong>AI / ML Developer · Backend Builder · Cloud & Data Learner</strong></p>
+
+<p>Brisbane-based and building practical AI projects that connect models to real systems.</p>
 
 <p>
   <a href="mailto:sukhmand713@gmail.com"><img src="https://img.shields.io/badge/email-sukhmand713%40gmail.com-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" /></a>
