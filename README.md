@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>hey, i'm Sukhman 👋</h1>
+<h1>Hey, I'm Sukhman 👋</h1>
 
 <p><strong>AI / ML Developer · Backend Builder · Cloud & Data Learner</strong></p>
 
@@ -12,13 +12,13 @@
   <a href="https://github.com/dhillonsukh3131"><img src="https://img.shields.io/badge/github-dhillonsukh3131-161B22?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=850&color=2CB67D&center=true&vCenter=true&width=780&lines=Building+AI+projects+that+actually+work;Computer+vision+%7C+backend+APIs+%7C+cloud+services;Brisbane-based%2C+open+to+AI%2FML+internships" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=850&color=2CB67D&center=true&vCenter=true&width=780&lines=Building+AI+projects+that+actually+work;Computer+vision+%7C+backend+APIs+%7C+cloud+services;Brisbane-based%2C+open+to+AI%2FML+internships" alt="Typing animation" />
 
 </div>
 
 ---
 
-## hey, i'm Sukhman
+## Hey, I'm Sukhman
 
 I build AI and backend projects with a practical mindset: make the model work, connect it to a real system, and ship something people can actually use.
 
@@ -36,25 +36,25 @@ sukhman = {
 
 ---
 
-## tech i use
+## Tech I Use
 
 <div align="center">
 
-### languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![HTML5](https://img.shields.io/badge/HTML5-101010?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### AI / data
+### AI / Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-101010?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-101010?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![OpenCV](https://img.shields.io/badge/OpenCV-101010?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
 ![Pandas](https://img.shields.io/badge/Pandas-101010?style=for-the-badge&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-101010?style=for-the-badge&logo=numpy&logoColor=013243)
 
-### backend / cloud
+### Backend / Cloud
 ![Node.js](https://img.shields.io/badge/Node.js-101010?style=for-the-badge&logo=node.js&logoColor=5FA04E)
 ![Express](https://img.shields.io/badge/Express-101010?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=4479A1)
@@ -65,7 +65,7 @@ sukhman = {
 
 ---
 
-## featured projects
+## Featured Projects
 
 <table>
 <tr>
@@ -112,7 +112,7 @@ REST API project using Node, Express, MySQL, Knex, JWT authentication, and Swagg
 
 ---
 
-## github activity
+## GitHub Activity
 
 <div align="center">
 
@@ -133,7 +133,7 @@ REST API project using Node, Express, MySQL, Knex, JWT authentication, and Swagg
 
 ---
 
-## what i'm looking for
+## What I'm Looking For
 
 I'm looking for AI/ML internships, research internship opportunities, and backend roles where AI is part of the product. Brisbane/Australia is ideal, but I'm open to strong remote or relocation opportunities if the work is genuinely exciting.
 
